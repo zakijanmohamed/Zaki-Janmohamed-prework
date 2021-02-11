@@ -13,7 +13,7 @@ body{
 }
 
 #l{
-    width: 1000px;
+    width: 500px;
     height: 400px;
     float: left;
     padding-top: 150px;
@@ -23,7 +23,7 @@ body{
 }
 
 #r{
-    width: 500px;
+    width: 600px;
     float: right;
     height: 400px;
     padding-top: 150px;
